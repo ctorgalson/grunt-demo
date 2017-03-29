@@ -1,0 +1,10 @@
+{
+  "name": "grunt-demo",
+  "version": "1.0.0",
+  "description": "Demonstrates how to use Grunt to retrieve and modify a remote file.",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-downloadfile": "^0.3.2",
+    "grunt-string-replace": "^1.3.1"
+  }
+}
